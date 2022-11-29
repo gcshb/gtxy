@@ -177,9 +177,9 @@ body {
   </div>
   <div class="rightcolumn">
     <div class="card">
-      <h2>关于我</h2>
-      <div class="fakeimg" style="height:100px;">作者微信</div>
-      <p>15570040357</p>
+      <h2>关于网站</h2>
+      <div class="fakeimg" style="height:100px;">暂时不知道写什么</div>
+      <p>这个也是</p>
     </div>
     <div class="card">
       <h3>校园趣事</h3>
