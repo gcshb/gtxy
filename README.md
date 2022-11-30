@@ -240,4 +240,3 @@ background: linear-gradient(to bottom, #f64f59, #c471ed, #12c2e9); /* W3C, IE 10
 </div>
 </div>
 </body>  
-</html>
