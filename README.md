@@ -1,5 +1,44 @@
-<head>
-<meta charset="utf-8">
+ <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>gtxy</title>
+<meta name="generator" content="Jekyll v3.9.2" />
+<meta property="og:title" content="gtxy" />
+<meta property="og:locale" content="en_US" />
+<link rel="canonical" href="https://gcshb.github.io/gtxy/" />
+<meta property="og:url" content="https://gcshb.github.io/gtxy/" />
+<meta property="og:site_name" content="gtxy" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="gtxy" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","headline":"gtxy","name":"gtxy","url":"https://gcshb.github.io/gtxy/"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/gtxy/assets/css/style.css?v=58388dd5ab3f3d51dee8dc9db0bf9bbfeea38b21">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/gtxy/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="https://gcshb.github.io/gtxy/">gtxy</a></h1>
+      
+
+      <head>
+<meta charset="utf-8" />
 <title>于都县古田初中</title>
 <style>
 * {
@@ -55,6 +94,10 @@ body {
   padding: 30px;
   text-align: center;
   background: white;
+	background: #6025F5;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to bottom, #FF5555, #6025F5);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to bottom, #FF5555, #6025F5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	
 }
  
 .header h1 {
@@ -110,7 +153,16 @@ body {
   background-color: white;
   padding: 20px;
   margin-top: 20px;
+	
 }
+	
+	.hb2{
+		height: 200px;
+          background : #ee9ca7;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to bottom, #ffdde1, #ee9ca7);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to bottom, #ffdde1, #ee9ca7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+	}
  
 /* 列后面清除浮动 */
 .row:after {
@@ -125,6 +177,10 @@ body {
   text-align: center;
   background: #ddd;
   margin-top: 20px;
+	background: #12c2e9;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to bottom, #f64f59, #c471ed, #12c2e9);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to bottom, #f64f59, #c471ed, #12c2e9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
 }
  
 /* 响应式布局 - 屏幕尺寸小于 800px 时，两列布局改为上下布局 */
@@ -142,12 +198,27 @@ body {
     width: 100%;
   }
 }
+	body
+	{
+    height: 200px;
+    background-color: red; /* 不支持线性的时候显示 */
+    background-image: linear-gradient(to bottom right, 
+#7ec6bc , yellow);
+}
+.hb1{
+    height: 400px;
+    background-color: red; /* 不支持线性的时候显示 */
+    background-image: linear-gradient(to bottom right, 
+#7ec6bc , yellow);
+
+
+	
 </style>
 </head>
 <body>
-
+<div id="grad1">
 <div class="header">
-  <h1>于都县古田初中</h1>
+  <h1>古田初中校园网</h1>
   <p>本网站还在建设中暂时没什么功能.....</p>
 </div>
 <div class="topnav">
@@ -157,13 +228,15 @@ body {
   <a href="#" style="float:right">主页</a>
 </div>
 
+	
+	
 <div class="row">
   <div class="leftcolumn">
-    <div class="card">
+    <div class="hb1">
       <h2>通知</h2>
       <h5>2022.11.29</h5>
 
-      <div class="fakeimg" style="height:200px;">2022年11月30日复学通知
+      <div>2022年11月30日复学通知
 一、2022年，11月30日复学，今晚8点会收到复学通知
 二，今晚8点将会关闭网课功能，请保管好近几天的随堂作业
 三，把最近几天的课堂作业，和课堂笔记还有核酸码，保管好带到学校检查
@@ -173,26 +246,27 @@ body {
       <p>娱乐用的别信</p>
       <p>上面消息是假的别当真</p>
     </div>
-    <div class="card">
+    <div class="hb2">
       <h2>告诉大家一个免费听歌的好网站</h2>
       <h5>2022.11.28</h5>
-      <div class="fakeimg" style="height:200px;"> 照片</div>
+      
       <a href="https://activity.kugou.com/download/v-7849ca30/index.html">点这跳转酷狗音乐概念版</a>
       
     </div>
   </div>
   <div class="rightcolumn">
-    <div class="card">
-      <h2>关于网站</h2>
-      <div class="fakeimg" style="height:100px;">暂时不知道写什么</div>
-      <p>这个也是</p>
-    </div>
+  
     <div class="card">
       <h3>校园趣事</h3>
       <div class="fakeimg"><p>文章</p></div>
       <div class="fakeimg"><p>文章</p></div>
       <div class="fakeimg"><p>文章</p></div>
 </div>
+	  <div id="gb">
+		  <h3>关于网站</h3>
+		  <p>该网站属学生制作版权归学生所有</p>
+	  
+	  </div>
     <div class="card">
       <h3>关于我</h3>
       <p>作者QQ：2239860745</p>
@@ -203,5 +277,13 @@ body {
 <div class="footer">
   <h2>作者邮箱：huabin519@163.com</h2>
 </div>
-
+</div>
 </body>
+
+
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  </body>
+</html>
