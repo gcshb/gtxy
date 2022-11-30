@@ -1,44 +1,5 @@
  <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-<!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>gtxy</title>
-<meta name="generator" content="Jekyll v3.9.2" />
-<meta property="og:title" content="gtxy" />
-<meta property="og:locale" content="en_US" />
-<link rel="canonical" href="https://gcshb.github.io/gtxy/" />
-<meta property="og:url" content="https://gcshb.github.io/gtxy/" />
-<meta property="og:site_name" content="gtxy" />
-<meta property="og:type" content="website" />
-<meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="gtxy" />
-<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","headline":"gtxy","name":"gtxy","url":"https://gcshb.github.io/gtxy/"}</script>
-<!-- End Jekyll SEO tag -->
-
-    <link rel="stylesheet" href="/gtxy/assets/css/style.css?v=58388dd5ab3f3d51dee8dc9db0bf9bbfeea38b21">
-    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
-
-<!-- Setup Google Analytics -->
-
-
-
-<!-- You can set your favicon here -->
-<!-- link rel="shortcut icon" type="image/x-icon" href="/gtxy/favicon.ico" -->
-
-<!-- end custom head snippets -->
-
-  </head>
-  <body>
-    <div class="container-lg px-3 my-5 markdown-body">
-      
-      <h1><a href="https://gcshb.github.io/gtxy/">gtxy</a></h1>
-      
-
-      <head>
-<meta charset="utf-8" />
+<meta charset="utf-8">
 <title>于都县古田初中</title>
 <style>
 * {
@@ -75,8 +36,8 @@ body {
   //                                              佛祖保佑             永无BUG
   //                                      佛曰:
   //                                              写字楼里写字间，写字间里程序员；
-  //                                              程序人员写程序，又拿程序换酒钱。                                                             //                                              酒醒只在网上坐，酒醉还来网下眠；
-  //                                              酒醉酒醒日复日，网上网下年复年。                                                             //                                              但愿老死电脑间，不愿鞠躬老板前；
+  //                                              程序人员写程序，又拿程序换酒钱。                                                                                       //                                              酒醒只在网上坐，酒醉还来网下眠；
+  //                                              酒醉酒醒日复日，网上网下年复年。                                                                                       //                                              但愿老死电脑间，不愿鞠躬老板前；
   //                                              奔驰宝马贵者趣，公交自行程序员。
   //                                              别人笑我忒疯癫，我笑自己命太贱；
   //                                              不见满街漂亮妹，哪个归得程序员？
