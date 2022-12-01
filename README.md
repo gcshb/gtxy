@@ -1004,4 +1004,5 @@ background: linear-gradient(to bottom, #f64f59, #c471ed, #12c2e9); /* W3C, IE 10
 发送邮件</a></h2>
 </div>
 </div>
+	<img src="http://cdn.u1.huluxia.com/g4/M03/FA/79/rBAAdmOIG7OAOIW3AAFu6YMTqxM897.jpg"> 
 </body>  
