@@ -1000,8 +1000,8 @@ background: linear-gradient(to bottom, #f64f59, #c471ed, #12c2e9); /* W3C, IE 10
 </div>
 
 <div class="footer">
-  <h2>>作者邮箱：huabin519@163.com<a href="mailto:someone@example.com?Subject=Hello%20again" target="huabing519@163.com">
-发送邮件</a>作者邮箱：huabin519@163.com</h2>
+  <h2>作者邮箱：huabin519@163.com<a href="mailto:someone@example.com?Subject=Hello%20again" target="huabing519@163.com">
+发送邮件</a></h2>
 </div>
 </div>
 </body>  
