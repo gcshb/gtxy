@@ -6,9 +6,18 @@
   box-sizing: border-box;
 }
  
+	img{
+		
+		border:10px solid #fff;
+	    border-radius:50%;
+	}
+	
+	
+	
+	
 body {
   font-family: Arial;
-  padding: 10px;
+  
   background: #f1f1f1;
 }
  
@@ -941,7 +950,13 @@ background: linear-gradient(to bottom, #f64f59, #c471ed, #12c2e9); /* W3C, IE 10
 </style>
 </head>
 <body>
-<div id="grad1">
+	 
+<div align="center">
+			<img src="http://cdn.u1.huluxia.com/g4/M03/FA/79/rBAAdmOIG7OAOIW3AAFu6YMTqxM897.jpg" height="300px" width="300px">
+		</div>
+	
+	<div id="grad1">
+	
 <div class="header">
   <h1>古田初中校园网</h1>
   <p>本网站还在建设中暂时没什么功能.....</p>
@@ -1004,5 +1019,4 @@ background: linear-gradient(to bottom, #f64f59, #c471ed, #12c2e9); /* W3C, IE 10
 发送邮件</a></h2>
 </div>
 </div>
-	<img src="http://cdn.u1.huluxia.com/g4/M03/FA/79/rBAAdmOIG7OAOIW3AAFu6YMTqxM897.jpg"> 
 </body>  
