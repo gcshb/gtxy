@@ -1,5 +1,6 @@
- <head>
-<meta charset="utf-8">
+
+<head>
+<meta charset="utf-8" />
 <title>于都县古田初中</title>
 <style>
 * {
@@ -952,7 +953,7 @@ background: linear-gradient(to bottom, #f64f59, #c471ed, #12c2e9); /* W3C, IE 10
 <body>
 	 
 <div align="center">
-			<img src="http://cdn.u1.huluxia.com/g4/M03/FA/79/rBAAdmOIG7OAOIW3AAFu6YMTqxM897.jpg" height="300px" width="300px">
+			<img src="http://cdn.u1.huluxia.com/g4/M03/FA/79/rBAAdmOIG7OAOIW3AAFu6YMTqxM897.jpg" height="300px" width="300px" />
 		</div>
 	
 	<div id="grad1">
@@ -962,11 +963,14 @@ background: linear-gradient(to bottom, #f64f59, #c471ed, #12c2e9); /* W3C, IE 10
   <p>本网站还在建设中暂时没什么功能.....</p>
 </div>
 <div class="topnav">
-  <a href="https://xingye.me/game/index.php">娱乐</a>
+<a href="#" style="float:right">主页</a>
+<a href="https://xingye.me/game/index.php">娱乐</a>
   <a href="http://m.1010jiajiao.com/">作业答案</a>
   <a href="https://www.zxx.edu.cn/">网课</a>
-  <a href="#" style="float:right">主页</a>
-</div>
+	<a href="https://user.qzone.qq.com/2387023536?_t_=0.3025206699592291&">古田初中万能墙</a>
+
+		</div>
+		
 
 	
 	
@@ -1009,6 +1013,7 @@ background: linear-gradient(to bottom, #f64f59, #c471ed, #12c2e9); /* W3C, IE 10
 	  </div>
     <div class="card">
       <h3>关于我</h3>
+	<a href="https://gcshb.github.io/HB">作者的其他网站</a>
       <p>作者QQ：2239860745</p>
     </div>
   </div>
@@ -1019,4 +1024,5 @@ background: linear-gradient(to bottom, #f64f59, #c471ed, #12c2e9); /* W3C, IE 10
 发送邮件</a></h2>
 </div>
 </div>
-</body>  
+</body>
+
