@@ -967,7 +967,7 @@ background: linear-gradient(to bottom, #f64f59, #c471ed, #12c2e9); /* W3C, IE 10
 <a href="https://xingye.me/game/index.php">娱乐</a>
   <a href="http://m.1010jiajiao.com/">作业答案</a>
   <a href="https://www.zxx.edu.cn/">网课</a>
-	<a href="https://user.qzone.qq.com/2387023536?_t_=0.3025206699592291&">古田初中万能墙</a>
+	<a href="https://gcshb.github.io/bbq">古田初中万能墙</a>
 
 		</div>
 		
